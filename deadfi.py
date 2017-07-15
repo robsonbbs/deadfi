@@ -77,13 +77,7 @@ def PacketHandler (pkt) :
                   print "--------------------------------------"
                  
                    
-while loop:          
-    menu()
-    choice = input("Escolha uma opcao [1-2]: ")
-    sniff(iface = interface , prn = PacketHandler)
-    loop = False
-
-
-
-
-
+        
+menu()
+choice = input("Escolha uma opcao [1-2]: ")
+sniff(iface = interface , prn = PacketHandler)
