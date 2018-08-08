@@ -1,5 +1,6 @@
-# deadfi
-Ferramenta para calcular senha padrão de roteadores WiFI que utilizem como senha padrão o MAC Address
+# deadfi - Prova de conceito 
+
+Ferramenta criada como prova de conceito de vulnerabilidade em roteadores que usam o MAC Adress como senha padrão
 
 # 1 - Instale o scapy (apt-get install python-scapy)   #
 #                                                      #
