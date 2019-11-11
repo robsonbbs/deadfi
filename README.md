@@ -1,4 +1,4 @@
-# Deadfi - Prova de conceito 
+# Dead-FI
 
 Ferramenta criada como prova de conceito de vulnerabilidade em roteadores que usam o MAC Adress como senha padrão
 
